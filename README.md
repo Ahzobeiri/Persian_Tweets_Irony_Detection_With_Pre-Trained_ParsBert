@@ -1,0 +1,1 @@
+# Persian_Tweets_Irony_Detection_With_Pre-Trained_ParsBert
